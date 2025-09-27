@@ -120,7 +120,6 @@ Final product clicks.
 3. **Dialogue Management**: Multi-turn interaction for complex queries
 4. **Product Retrieval & Ranking**: Uses FAISS embeddings to find similar products
 5. **Response Generation**: Constructs user-friendly messages and returns product keys
-6. **API Layer**: `/chat` endpoint exposed via FastAPI
 
 ## Deployment & CI/CD
 
