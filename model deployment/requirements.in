@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sentence-transformers
+transformers
+torch 
+pydantic
+Pillow
+requests
